@@ -1,0 +1,3 @@
+@echo off
+echo Starting Samara-Home...
+docker-compose up
